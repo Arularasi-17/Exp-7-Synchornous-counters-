@@ -53,11 +53,13 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: ARULARASI.U
+RegisterNumber:23013049  
 */
 
 
+![CODE UPCOUNTER](https://github.com/Arularasi-17/Exp-7-Synchornous-counters-/assets/147410018/7afc009b-e25b-4fc5-8b5a-27f27a55210e)
+![code down counter](https://github.com/Arularasi-17/Exp-7-Synchornous-counters-/assets/147410018/9ea21a67-f40e-46db-9f5e-ec230077a2ba)
 
 
 
@@ -65,7 +67,9 @@ RegisterNumber:
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 
+![LOGIC GATE UPCOUNTER](https://github.com/Arularasi-17/Exp-7-Synchornous-counters-/assets/147410018/be66e463-5546-4b21-afca-33da0d5419da)
 
+![logic gate downcounter](https://github.com/Arularasi-17/Exp-7-Synchornous-counters-/assets/147410018/212ad90f-1d7b-4c76-a788-9bb3fc3525e8)
 
 
 
@@ -74,13 +78,17 @@ RegisterNumber:
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+![TIME LINE UPCOUNTER](https://github.com/Arularasi-17/Exp-7-Synchornous-counters-/assets/147410018/a1b8ab36-7b13-4a74-875a-485bbb21efff)
+![timeline down counter](https://github.com/Arularasi-17/Exp-7-Synchornous-counters-/assets/147410018/54441051-e2e9-4bfd-9f74-a4b93a914118)
 
 
 
 
 ### TRUTH TABLE 
 
+![WAVEFORM UPCOUNTER](https://github.com/Arularasi-17/Exp-7-Synchornous-counters-/assets/147410018/a112cb1a-de82-43f3-8a33-1a569a8d1f1b)
 
+![waveform down counter](https://github.com/Arularasi-17/Exp-7-Synchornous-counters-/assets/147410018/128144be-acd4-4eee-b516-8dd5673af485)
 
 
 
